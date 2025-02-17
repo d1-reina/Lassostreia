@@ -1,2 +1,2 @@
 # The Last Communist
-aboba +1sneak glorpsniper yumeglorp glorp
+aboba +1sneak glorpsniper yumeglorp glorp ta
