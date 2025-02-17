@@ -70,61 +70,51 @@
     "Welcome.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 29,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 204,
-      "nonWhitespaceCharacterCount": 173,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1739796108360,
       "modifiedDate": 1739796108360,
       "sizeInBytes": 204,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09666666666666666,
-        "wordCount": 29,
-        "characterCount": 204,
-        "nonWhitespaceCharacterCount": 173
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Pre-Nukroy/Pre-Nukroy/Index.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
+      "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
+      "wordGoal": 0,
       "pageCount": 0,
-      "characterCount": 2,
+      "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1739796108016,
       "modifiedDate": 1739796108016,
       "sizeInBytes": 161,
       "sessionStart": {
-        "noteCount": 1,
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
-        "characterCount": 2,
+        "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "longform": {
-          "format": "scenes",
-          "title": "Pre-Nukroy",
-          "workflow": "Default Workflow",
-          "sceneFolder": "/",
-          "scenes": [],
-          "ignoredFiles": []
-        }
       }
     },
     "Pre-Nukroy/Pre-Nukroy/Ideas, Dialogue and War.md": {
@@ -146,10 +136,10 @@
       "sizeInBytes": 62,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 46,
-        "nonWhitespaceCharacterCount": 40
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 62,
+        "nonWhitespaceCharacterCount": 54
       }
     }
   }
