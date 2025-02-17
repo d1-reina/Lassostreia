@@ -80,9 +80,15 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
+<<<<<<< HEAD
       "aliases": [],
       "createdDate": 1739796108360,
       "modifiedDate": 1739796108360,
+=======
+      "aliases": null,
+      "createdDate": 1739713305423,
+      "modifiedDate": 1739715646757,
+>>>>>>> branch 'master' of https://github.com/d1-reina/Lassostreia.git
       "sizeInBytes": 204,
       "sessionStart": {
         "noteCount": 0,
@@ -105,9 +111,15 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
+<<<<<<< HEAD
       "aliases": [],
       "createdDate": 1739796108016,
       "modifiedDate": 1739796108016,
+=======
+      "aliases": null,
+      "createdDate": 1739717402856,
+      "modifiedDate": 1739791748237,
+>>>>>>> branch 'master' of https://github.com/d1-reina/Lassostreia.git
       "sizeInBytes": 161,
       "sessionStart": {
         "noteCount": 0,
@@ -131,8 +143,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1739796109056,
-      "modifiedDate": 1739796332876,
+      "createdDate": 1739717645515,
+      "modifiedDate": 1739796897336,
       "sizeInBytes": 62,
       "sessionStart": {
         "noteCount": 1,
