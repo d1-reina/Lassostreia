@@ -1,4 +1,5 @@
 Mikaela(Shasha's Older Sister)
+
 Qingyi has multiple personality each corresponding to a lover
 
 Zanno the only place that shifted gods from light to aemos, that's why the world's magic is so weird
