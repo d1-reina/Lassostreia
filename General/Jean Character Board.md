@@ -28,7 +28,7 @@ Aesthetic experience temporarily suspends the deterministic “will,” offering
 Jean Valjean’s acts of mercy and love (embodying moral beauty) defy his “fated” identity as a criminal, rewriting his destiny through will. Since there is literally a Jean in here I should take a look lol.
 
     ---
-# The Final Savior of Humanity
+# The Grove Keeper of Genesis
 ## Process Theology  of Alfred North Whitehead
 > “God is the poet of the world, guiding it by his vision of truth, beauty, and goodness.”
 
@@ -36,3 +36,6 @@ Whitehead’s God is not a deterministic "Laplacian" force but a persuasive coll
 
 The tension between divine order and human freedom hinges on beauty as both a divine lure and a subversive force. Whether through art, moral action, or existential choice, beauty becomes the “wild card” that destabilizes mechanistic fate, affirming the power of will to reshape destiny. 
 >“He who bends to himself a joy, Does the winged life destroy; But he who kisses the joy as it flies, Lives in eternity’s sunrise.” - from Eternity by William Blake
+
+## The[[General/Gardens of Genesis.md| Gardens of Genesis ]]
+She would have to unshackle the world from simply being a memory of Frigid Matrix and reconnect it to the Garden of Genesis. The Cataclysm syncs with the death of water goddess not because of her death but due to Frigid Matrix uprooting it from the Gardens. 
