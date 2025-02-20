@@ -2,7 +2,7 @@
 ## The Duino Elegies by Rainer Maria Rilke
 > For beauty is nothing but the beginning of terror which we are still just able to endure, and we are so awed because it serenely disdains to annihilate us
 
-Here the focus is on marrying the **Lovecraftian sense of horror to the magnanimity of beauty's embrace**. Jean sheer willpower and her ability to overpower the circumstances laid out by divinity should send a shiver of awe down your spine. Skaladriel is this **accumulation of  the "terror" of beauty**.
+Here the focus is on marrying the **Lovecraftian sense of horror to the magnanimity of beauty's embrace**. Jean's sheer willpower and her ability to overpower the circumstances laid out by divinity should send a shiver of awe down your spine. Skaladriel is this **accumulation of  the "terror" of beauty**.
 ## The Brothers Karamazov by Fyodor Dostoevsky
 > The awful thing is that beauty is mysterious as well as terrible. God and the devil are fighting there, and the battlefield is the heart of man.
 
