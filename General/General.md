@@ -1,4 +1,38 @@
 Mikaela(Shasha's Older Sister)
+Skaladruel is something that both humans and ocenaids fear : self acceptance 
+
+Okay what if Saqie's heal is based on deleting the memories of the evil icy twink side of her? This burning of memories at the end of a life is what powers the dying planet for now. So ocenaids would be the part of the memories that couldn't be purified, the regrets and angers
+
+The way that people don't understand that Fenrirs obsession with tech isn't just some special interest but a survival mechanism like how politics is something you have to be interested in of you're from a vulnerable group
+
+What if unlike last time where he wiped his full person so he could forget Aisha, this time he only wiped his agency. This makes it easier to subconsciously manipulate himself into liking Aisha again but this time he has to observe from a distance as his body falls in love again without letting him participate.
+
+What if Jean thinks of herself as only having the power to kill things(send them to the unknown paradise) and so she sees in the mc a much greater power, the one she wishes she had instead and the one that all humans but her have, the ability to make the living world a better place
+
+What if someone sealed themselves in hell to die everytime she touches someone so that they could die instead, giving her the ability to touch people again. And how would she handle the weight of someone precious like her parents doing that for her
+
+What if the Laplace demon is just her mother trying to create a sanctuary for her sweet girl, knowing just how cruel and evil the outside world will be for her? Or maybe she somehow changed the original Laplace Machine to work like this? Perhaps everyone in London can be suspiciously pro trans??
+
+What if just like fm create being that break sansara mermaid gives out parts of her to people who gain her senses. So Zain got her eyes and hence he can see through the dimension of time
+
+What if in London each of the 16 is a little gadget Jean has. Like Fenrir is a PC
+
+Zain has his memory wiped by Aisha (maybe she can do it by transferring then as dreams to her quantum counterpart and vice versa)to make the plan work and only realises at the end what has happened and how they'd used the same trick to make the Zanno revolution work too.
+
+Jean dressed a guy for her funeral? Male monuments, rewriting history we're powerless to stop, claw back on gender rights 
+
+Mimi and Shiina as Saqie and Nozomi
+
+What if every women from London had a key in their back like dolls, that can be exploited to either make them forget pr wound forward to make them go through their future immediately?
+
+What if everyone is just a poem at heart. A verse in the story that this world is. What if the FM collected every book and created this World as a mashup of these verses, in the hope that Entropy would recombine all this divine existence into the right configuration to bring back the waters. And FM itself is also a verse in each one of these mashes.
+
+The nurse gives life in her service only to take it using her powers to funnel it to the general 
+
+You know i have this friend. A person I'll never forget. He was an amazing person and I cherish every single second we spent together... In the most loving way possible I absolutely hate the way he lives. What he stands for and how he thinks. 
+
+Jean leaves behind a bunch of crafts she learnt for us. Some clothes, some food, the song she made with our recordings (Astralyn type) and a necklace she promised she'd buy 
+Gay doctor that sort of gets the problems of a trans patient 
 
 Qingyi has multiple personality each corresponding to a lover. China plot could relate to the Song river overflooding (aka oceanids but the weirder river variety). China is not a city but a massive walled land, with lots more people. The cost of this technique is that they have no other moving cities, heavily reliant on good relations with other nations to handle those duties.
 
